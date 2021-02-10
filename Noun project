@@ -1,0 +1,54 @@
+<html>
+<h1> Harry Styles </h1>
+<h2> An English singer, songwriter, and actor. </h2>
+<div class="image" > 
+  <img src= https://i.postimg.cc/bNFFV4dG/3749.jpg
+       </div> 
+  <body>
+    <h3> Harry styles is a well known singer, songwriter and actor. You have most likely heard meany of his songs on the radio. He is also staring in a movie called Don't Worry Darling that is scheduled to come out sometime this year. And for all of you girls head over heals for Styles I hate to break it to you but speculations say he is dating his beautiful co-host Olivia Wilde. Along with his new acting carer he has writen 84 songs. </h3>
+  </body>
+  <center>
+ <table> Harry Styles Songs
+    <tr>
+      <td> First song
+        <td> Sign of the Times
+   </tr> 
+   <tr>
+   <td> Most popular song
+     <td> Watermelon Sugar 
+       </tr>
+   <tr> 
+     <td> Least popular song
+     <td> Treat People With Kindness
+   </tr>
+   <tr> 
+     <td> Newest song
+       <td> Lights Up
+   </tr>
+    </table>
+   
+   </html>
+   
+   <style>
+   body {
+  font-family: system-ui;
+  background:grey ;
+  color: black;
+  text-align: center;
+}
+table tr td, table tr th{   
+  word-wrap: break-word; 
+  border: 1px solid #000;
+  min-width: 130px; 
+  padding: 5px; 
+  position: relative;
+  text-align: left; 
+  box-sizing: border-box; 
+  min-width: 30px;}
+}
+div.absolute{
+  position:absolute;
+  top:1020px;
+  center:100px;  
+}
+</stlye>
