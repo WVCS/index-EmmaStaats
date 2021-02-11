@@ -7,7 +7,7 @@
   <body>
     <h3> Harry styles is a well known singer, songwriter and actor. You have most likely heard meany of his songs on the radio. He is also staring in a movie called Don't Worry Darling that is scheduled to come out sometime this year. And for all of you girls head over heals for Styles I hate to break it to you but speculations say he is dating his beautiful co-host Olivia Wilde. Along with his new acting carer he has writen 84 songs. </h3>
   </body>
-  <center>
+  <div class="absolute">
  <table> Harry Styles Songs
     <tr>
       <td> First song
@@ -26,6 +26,24 @@
        <td> Lights Up
    </tr>
     </table>
+     <div class="abs">
+    </table>
+    <ol> Where Harry has gone on tour
+      <li> Washington </li>
+      <li> California </li>
+      <li> Oregon </li>
+      <li> Arizona </li>
+      <li> Nevada </li> 
+      <li> Colorado </li>
+      <li> Texas </li>
+      <li> Pennsylvania </li>
+      <li> Missouri </li>
+      <li> Michigan </li> 
+      <li> Minnesota </li>
+      <li> Illinois </li>
+      <li> Tennessee </li>
+    </ol>
+   </div>
    
    </html>
    
@@ -46,9 +64,14 @@ table tr td, table tr th{
   box-sizing: border-box; 
   min-width: 30px;}
 }
-div.absolute{
+div.abs {
   position:absolute;
-  top:1020px;
-  center:100px;  
+  top:1040px;
+  left:100px;
+}
+div.absolute {
+  position: absolute;
+  top:1060px;
+  left:100px;
 }
 </stlye>
