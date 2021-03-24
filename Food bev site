@@ -1,0 +1,122 @@
+
+<body>
+  <ul> 
+    <li><a href="#home">Home</a></li>
+    <li><a href="#MENU">MENU</a> </li>
+    <li><a href="#BBQ PICS">BBQ PICS</a>  </li>
+       
+  </ul>
+  
+  
+  <br>
+  <br>
+  <h1> Not Quite Yet BBQ </h1> 
+  <table align="center" id="classes">
+    <tr>
+      <th> Meat </th>
+      <th> Price per pound </th>
+    </tr>
+    
+   <tr> 
+     <td> Brisket </td>
+     <td> $11 </td>
+    </tr>
+    
+    <tr> 
+     <td>Pulled pork </td>
+     <td> $10 </td>
+    </tr>
+    
+    <tr> 
+     <td> Sausage </td>
+     <td> $8 </td>
+    </tr>
+    
+    <tr> 
+     <td> Ribs </td>
+     <td> $5 </td>
+    </tr> 
+  </table>  
+  <br> 
+<p style="text-align:center;">  <a href="https://www.powayusd.com/en-US/Schools/HS/WVHS/HOME">More Info About Not Quite Yet BBQ</a>
+  <p> We got the name from me when I was younger. Because when my parents asked me something my answer was usally ¨not quite yet¨. It is a family owned restraunt.
+  <p>Do we have good service?</p>
+  </p>
+<form action="/action_page.php">
+  <input type="radio" name="school" value="yes" checked> Yes<br>
+  <input type="radio" name="school" value="of course"> Could be better <br>
+  <input type="radio" name="school" value="other"> No <br><br>
+  <input type="submit">
+</form> 
+  <p id="cupcakes">
+   <img src=>
+    <img src="" width=400px;> </p>
+  
+
+    
+  
+  
+  
+</body>
+
+
+<style>
+body {
+  background-color: red;
+}
+
+h1 {
+  font-size: 200%;
+  color: gold;
+  text-align: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 75%;
+  }
+
+td, th {
+  border: 5px solid #D3D3D3;
+  text-align: left;
+  padding: 5px;
+}
+
+tr:nth-child(even) {
+  background-color: #D3D3D3;
+}
+
+a {
+  color: #f2bf1c;
+  font-size: 150%;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  background-color:black;
+  width: 100%;
+  top: 0;
+  left: 0;
+  
+}
+
+li {
+  display: inline;
+  float: left;
+width: 200px;
+padding: 5px;
+margin: 5px;}
+
+li a:hover {
+  background-color: #20;
+  color: red;
+  font-size: 35px;
+}
+p1 {
+  text-align: center;
+}
