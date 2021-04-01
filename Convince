@@ -1,0 +1,37 @@
+<h1> IS BASEBALL OR SOFTBALL HARDER?</h1>
+<div class="image" > 
+  <img src= https://i.postimg.cc/nVGp1bTf/Best-Shot.jpg
+       </div>
+
+<html> Although most would argue that softball and baseball are the same they are not and in some ways softball is actually way harder. I know everyone has watched a Baseball game and seen an infielder field the ball and then look at it before they throw it, that's because the bases are farther so they do not need to react as quickly. For a matter of fact baseball has 4.3 seconds from the time it hits the bat but softball only has 3 seconds from the time it comes off the bat. Softballs are also heavier than baseballs so they can not be hit as far. Now I know what your thinking Baseball pitchers pitch much faster though and my response to that is, no they really do not. Because baseballs mound is farther away and softball is closer so 90 mph in baseball is equivalent to 60 in softball because they have the same reaction time. 
+<style>
+body {
+  font-family: system-ui;
+  background:grey ;
+  color: black;
+  text-align: center;
+}
+table tr td, table tr th{   
+  word-wrap: break-word; 
+  border: 1px solid #000;
+  min-width: 130px; 
+  padding: 5px; 
+  position: relative;
+  text-align: left; 
+  box-sizing: border-box; 
+  min-width: 30px;}
+}
+
+div.abs {
+  position:absolute;
+  top:1040px;
+  left:100px;
+}
+div.absolute {
+  position: absolute;
+  top:1060px;
+  left:100px;
+}
+
+
+</style>
