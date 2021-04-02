@@ -15,11 +15,11 @@
     </label>
     <label for="logo" class="logo">Emmaś Website</label>
     <ul>
-      <li><a href="#" class="active">Home</a></li>
-      <li><a href="#">Myself</a></li>
-      <li><a href="#">Harry Styles</a></li>
-      <li><a href="#">Softball or Baseball?</a></li>
-      <li><a href="#">Not Quite Yet BBQ</a></li>
+      <li><a href="Emmas Website" class="active">Home</a></li>
+      <li><a href="Emmas.html">Myself</a></li>
+      <li><a href="Noun.html">Harry Styles</a></li>
+      <li><a href="Convince.html">Softball or Baseball?</a></li>
+      <li><a href="Food bev.html">Not Quite Yet BBQ</a></li>
     </ul>
   </nav>
 </body>
